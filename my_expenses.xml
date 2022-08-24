@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<expenses>
+  <expense amount='900' category='Образование' date='9.08.2015'>
+     Книжка по Ruby on Rails 
+  </expense>
+  <expense amount='400' category='Хороший программист' date='1.06.2015'>
+     Петличка и провода 
+  </expense>
+  <expense amount='3500' category='Хороший программист' date='23.12.2015'>
+     Софрбокс + штатив 
+  </expense>
+  <expense amount='200' category='Развлечения' date='07.12.2015'>
+     Компот 
+  </expense>
+  <expense amount='10000000' category='Личное вознаграждение' date='2022.08.25'>
+     Lexus lx570 2024 года 
+  </expense>
+  <expense amount='10' category='Личное' date='2022.08.25'>
+     0 
+  </expense>
+  <expense amount='40000000' category='Личное вознаграждение ' date='2025.12.31'>
+    0
+  </expense>
+</expenses>
